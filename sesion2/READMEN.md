@@ -8,7 +8,7 @@ Secuencial.
 Condicional (if else,switch).
 Iterativa (Bucles for).
 
-Condicional.
+## Condicional.
 
 Estás permiten decidir que codigo se debe ejecutar a partir del resultado de una evaluación .
 
