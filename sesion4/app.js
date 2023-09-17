@@ -32,6 +32,9 @@ function calculateAverage(numbers) {
         this.age = year - this.birthYear
 	}
 }
+// Agregar key y value a objeto
+john["edad"] = [19];
+
 
 console.log(john.firstName);
 console.log(john['lastName']);

@@ -1,3 +1,5 @@
+// Convierte el objeto en un arreglo
+
 var car = {
     brand: 'Nissan',
     model: 'Versa',
