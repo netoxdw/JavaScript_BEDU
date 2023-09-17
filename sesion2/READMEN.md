@@ -1,4 +1,4 @@
-# _Controles de flujo._
+# Controles de flujo.
 
 Las estructuras de controles de flujo son declaraciones de tipo "si se cumple una condición haz esto; si no se cumple, haz esto otro". 
 
