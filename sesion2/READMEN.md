@@ -1,4 +1,4 @@
-[]Controles de flujo.
+# _{Controles de flujo.}_
 
 Las estructuras de controles de flujo son declaraciones de tipo "si se cumple una condición haz esto; si no se cumple, haz esto otro". 
 
@@ -8,7 +8,7 @@ Secuencial.
 Condicional (if else,switch).
 Iterativa (Bucles for).
 
->>Condicional.
+Condicional.
 
 Estás permiten decidir que codigo se debe ejecutar a partir del resultado de una evaluación .
 
