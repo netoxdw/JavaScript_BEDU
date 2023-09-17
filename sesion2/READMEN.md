@@ -4,7 +4,7 @@ Las estructuras de controles de flujo son declaraciones de tipo "si se cumple un
 
 Existen tres tipos de un control de flujo:
 
-#### _ holaaa_ 
+####  holaaa
 
 Secuencial.
 Condicional (if else,switch).
