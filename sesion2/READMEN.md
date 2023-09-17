@@ -14,14 +14,13 @@ Estás permiten decidir que codigo se debe ejecutar a partir del resultado de un
 
 Para evaluar una condicion se hace uso de los operadores logicos (igual, desigual, mayor iguial, menor igual, etc).
 
-    >>if else.
-    La sentencia if/else es el tipo de condición más común dentro del lenguaje de programación. Traducida literalmente del inglés, se podría expresar como si se cumple la condición, haz esto, y sino, haz esto otro.
-
+### if else.
+La sentencia if/else es el tipo de condición más común dentro del lenguaje de programación. Traducida literalmente del inglés, se podría expresar como si se cumple la condición, haz esto, y sino, haz esto otro.
     
-     if(condition){
+     if (condition){
       // Bloque de código cuando se cumple <condicíon>
      }
-     else{
+     else {
      // Bloque de código cuando NO se cumple <condicíon>
      }    
 
